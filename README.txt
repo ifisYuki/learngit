@@ -1,2 +1,1 @@
-Hello world
-Learning git
+This is the readme file.
