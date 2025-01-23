@@ -1,1 +1,1 @@
-This is the master branch.
+Git is a free software.
