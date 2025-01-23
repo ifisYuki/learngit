@@ -1,1 +1,1 @@
-Modifying a new branch is quick.
+This is the master branch.
