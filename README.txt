@@ -1,1 +1,1 @@
-Creating a new branch is quick.
+Modifying a new branch is quick.
